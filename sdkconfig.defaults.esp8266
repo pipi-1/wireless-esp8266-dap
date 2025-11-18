@@ -526,5 +526,5 @@ CONFIG_SUPPORT_TERMIOS=y
 #
 # wireless dap config
 #
-# CONFIG_USE_WEBSOCKET_DAP is not set
+CONFIG_USE_WEBSOCKET_DAP=y
 # end of wireless dap config
