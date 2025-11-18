@@ -18,7 +18,7 @@
 #include "esp_log.h"
 
 #ifdef CONFIG_IDF_TARGET_ESP8266
-    #define PIN_LED_WIFI_STATUS 15
+    #define PIN_LED_WIFI_STATUS 2
 #elif defined CONFIG_IDF_TARGET_ESP32
     #define PIN_LED_WIFI_STATUS 27
 #elif defined CONFIG_IDF_TARGET_ESP32C3
